@@ -12,4 +12,8 @@ public class PigLatin{
     }
     return answer;
   }
+
+  public static String pigLatin(String s){
+    
+  }
 }
